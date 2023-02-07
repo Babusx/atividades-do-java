@@ -1,0 +1,20 @@
+.classe1{
+
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+    border: yellow;
+}
+
+.classe2{
+    background-color: black;
+    color: yellow;
+
+}
+
+.classe3{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 42px;
+    opacity: 90%;
+}
